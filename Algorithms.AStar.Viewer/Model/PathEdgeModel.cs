@@ -1,6 +1,6 @@
 ﻿using ReactiveUI;
 
-namespace Roy_T.AStar.Viewer.Model
+namespace Algorithms.AStar.Viewer.Model
 {
     internal sealed class PathEdgeModel : ReactiveObject
     {

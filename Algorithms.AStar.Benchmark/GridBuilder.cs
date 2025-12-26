@@ -1,7 +1,7 @@
-﻿using Roy_T.AStar.Grids;
-using Roy_T.AStar.Primitives;
+﻿using Algorithms.AStar.Grids;
+using Algorithms.AStar.Primitives;
 
-namespace Roy_T.AStar.Benchmark
+namespace Algorithms.AStar.Benchmark
 {
     public static class GridBuilder
     {

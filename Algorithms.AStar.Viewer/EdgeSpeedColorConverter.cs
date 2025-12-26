@@ -2,9 +2,9 @@
 using System.Globalization;
 using System.Windows.Data;
 using System.Windows.Media;
-using Roy_T.AStar.Primitives;
+using Algorithms.AStar.Primitives;
 
-namespace Roy_T.AStar.Viewer
+namespace Algorithms.AStar.Viewer
 {
     internal sealed class EdgeSpeedColorConverter : IValueConverter
     {

@@ -1,8 +1,8 @@
 ﻿using System;
-using Roy_T.AStar.Graphs;
-using Roy_T.AStar.Primitives;
+using Algorithms.AStar.Graphs;
+using Algorithms.AStar.Primitives;
 
-namespace Roy_T.AStar.Paths
+namespace Algorithms.AStar.Paths
 {
     internal sealed class PathFinderNode : IComparable<PathFinderNode>
     {

@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using NUnit.Framework;
-using Roy_T.AStar.Graphs;
-using Roy_T.AStar.Grids;
-using Roy_T.AStar.Paths;
-using Roy_T.AStar.Primitives;
-using Roy_T.AStar.Serialization;
+using Algorithms.AStar.Graphs;
+using Algorithms.AStar.Grids;
+using Algorithms.AStar.Paths;
+using Algorithms.AStar.Primitives;
+using Algorithms.AStar.Serialization;
 
-namespace Roy_T.AStar.Tests
+namespace Algorithms.AStar.Tests
 {
     public sealed class GridSerializationTests
     {

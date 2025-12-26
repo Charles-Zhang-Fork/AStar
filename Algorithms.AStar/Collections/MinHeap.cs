@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Roy_T.AStar.Collections
+namespace Algorithms.AStar.Collections
 {
     // C# Adaptation of a min heap built for C++ by Robin Thomas
     // Original source code at: https://github.com/robin-thomas/min-heap

@@ -1,6 +1,6 @@
-﻿using Roy_T.AStar.Primitives;
+﻿using Algorithms.AStar.Primitives;
 
-namespace Roy_T.AStar.Viewer
+namespace Algorithms.AStar.Viewer
 {
     public static class Settings
     {

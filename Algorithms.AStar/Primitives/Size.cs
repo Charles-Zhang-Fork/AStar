@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Roy_T.AStar.Primitives
+namespace Algorithms.AStar.Primitives
 {
     public struct Size : IEquatable<Size>
     {

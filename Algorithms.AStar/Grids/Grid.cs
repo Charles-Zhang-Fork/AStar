@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Roy_T.AStar.Graphs;
-using Roy_T.AStar.Primitives;
+using Algorithms.AStar.Graphs;
+using Algorithms.AStar.Primitives;
 
-namespace Roy_T.AStar.Grids
+namespace Algorithms.AStar.Grids
 {
     public sealed class Grid
     {

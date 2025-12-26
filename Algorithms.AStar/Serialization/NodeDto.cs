@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Roy_T.AStar.Serialization
+namespace Algorithms.AStar.Serialization
 {
     public class NodeDto
     {

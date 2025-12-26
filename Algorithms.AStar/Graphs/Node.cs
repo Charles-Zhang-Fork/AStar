@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Roy_T.AStar.Primitives;
+using Algorithms.AStar.Primitives;
 
-namespace Roy_T.AStar.Graphs
+namespace Algorithms.AStar.Graphs
 {
     public sealed class Node : INode
     {

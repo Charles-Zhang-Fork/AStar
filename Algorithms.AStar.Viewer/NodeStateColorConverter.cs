@@ -2,9 +2,9 @@
 using System.Globalization;
 using System.Windows.Data;
 using System.Windows.Media;
-using Roy_T.AStar.Viewer.Model;
+using Algorithms.AStar.Viewer.Model;
 
-namespace Roy_T.AStar.Viewer
+namespace Algorithms.AStar.Viewer
 {
     internal sealed class NodeStateColorConverter : IValueConverter
     {

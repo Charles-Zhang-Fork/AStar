@@ -1,4 +1,4 @@
-﻿namespace Roy_T.AStar.Serialization
+﻿namespace Algorithms.AStar.Serialization
 {
     public class GridDto
     {

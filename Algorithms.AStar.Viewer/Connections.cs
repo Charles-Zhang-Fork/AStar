@@ -1,4 +1,4 @@
-﻿namespace Roy_T.AStar.Viewer
+﻿namespace Algorithms.AStar.Viewer
 {
     internal enum Connections
     {

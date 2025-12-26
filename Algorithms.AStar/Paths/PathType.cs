@@ -1,4 +1,4 @@
-﻿namespace Roy_T.AStar.Paths
+﻿namespace Algorithms.AStar.Paths
 {
     public enum PathType
     {

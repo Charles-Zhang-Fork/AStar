@@ -13,9 +13,9 @@ Install-Package RoyT.AStar
 ## Usage Example
 ### Grids
 ```csharp
-using Roy_T.AStar.Grids;
-using Roy_T.AStar.Primitives;
-using Roy_T.AStar.Paths;
+using Algorithms.AStar.Grids;
+using Algorithms.AStar.Primitives;
+using Algorithms.AStar.Paths;
 
 // ....
 
@@ -40,9 +40,9 @@ yourClass.TraversePath(path.Edges);
 
 ### Graphs
 ```csharp
-using Roy_T.AStar.Graphs;
-using Roy_T.AStar.Primitives;
-using Roy_T.AStar.Paths;
+using Algorithms.AStar.Graphs;
+using Algorithms.AStar.Primitives;
+using Algorithms.AStar.Paths;
 
 // The agent drives a car that can go at most 140KM/h
 var maxAgentSeed = Velocity.FromKilometersPerHour(140);

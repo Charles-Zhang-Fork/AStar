@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Roy_T.AStar.Graphs;
+using Algorithms.AStar.Graphs;
 
-namespace Roy_T.AStar.Paths
+namespace Algorithms.AStar.Paths
 {
     internal sealed class PathReconstructor
     {

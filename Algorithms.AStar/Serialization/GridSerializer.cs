@@ -1,12 +1,12 @@
-﻿using Roy_T.AStar.Graphs;
-using Roy_T.AStar.Grids;
-using Roy_T.AStar.Primitives;
+﻿using Algorithms.AStar.Graphs;
+using Algorithms.AStar.Grids;
+using Algorithms.AStar.Primitives;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Xml.Serialization;
 
-namespace Roy_T.AStar.Serialization
+namespace Algorithms.AStar.Serialization
 {
     public static class GridSerializer
     {

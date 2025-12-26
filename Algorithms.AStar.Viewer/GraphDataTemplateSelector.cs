@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Windows;
 using System.Windows.Controls;
-using Roy_T.AStar.Viewer.Model;
+using Algorithms.AStar.Viewer.Model;
 
-namespace Roy_T.AStar.Viewer
+namespace Algorithms.AStar.Viewer
 {
     internal sealed class GraphDataTemplateSelector : DataTemplateSelector
     {

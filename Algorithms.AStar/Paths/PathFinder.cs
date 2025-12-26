@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Roy_T.AStar.Collections;
-using Roy_T.AStar.Graphs;
-using Roy_T.AStar.Grids;
-using Roy_T.AStar.Primitives;
+using Algorithms.AStar.Collections;
+using Algorithms.AStar.Graphs;
+using Algorithms.AStar.Grids;
+using Algorithms.AStar.Primitives;
 
-namespace Roy_T.AStar.Paths
+namespace Algorithms.AStar.Paths
 {
     public sealed class PathFinder
     {

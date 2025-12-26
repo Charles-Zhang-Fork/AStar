@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
-using Roy_T.AStar.Collections;
+using Algorithms.AStar.Collections;
 
-namespace Roy_T.AStar.Tests.Collections
+namespace Algorithms.AStar.Tests.Collections
 {
     public sealed class MinHeapTest
     {

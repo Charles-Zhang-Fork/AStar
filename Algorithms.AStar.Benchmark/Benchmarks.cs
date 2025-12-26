@@ -1,9 +1,9 @@
 ﻿using BenchmarkDotNet.Attributes;
-using Roy_T.AStar.Grids;
-using Roy_T.AStar.Paths;
-using Roy_T.AStar.Primitives;
+using Algorithms.AStar.Grids;
+using Algorithms.AStar.Paths;
+using Algorithms.AStar.Primitives;
 
-namespace Roy_T.AStar.Benchmark
+namespace Algorithms.AStar.Benchmark
 {
     /// <summary>
     /// For more thorough explanation, and benchmark history, see BenchmarkHistory.md

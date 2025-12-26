@@ -1,4 +1,4 @@
-﻿namespace Roy_T.AStar.Viewer.Model
+﻿namespace Algorithms.AStar.Viewer.Model
 {
     public enum NodeState
     {

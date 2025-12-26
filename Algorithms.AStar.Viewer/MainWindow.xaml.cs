@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Roy_T.AStar.Viewer
+namespace Algorithms.AStar.Viewer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

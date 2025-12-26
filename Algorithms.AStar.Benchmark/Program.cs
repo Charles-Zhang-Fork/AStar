@@ -1,7 +1,7 @@
 ﻿using System;
 using BenchmarkDotNet.Running;
 
-namespace Roy_T.AStar.Benchmark
+namespace Algorithms.AStar.Benchmark
 {
     public class Program
     {

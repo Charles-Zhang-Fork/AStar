@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <RootNamespace>Roy_T.AStar</RootNamespace>
-    <PackageId>RoyT.AStar</PackageId>
+    <RootNamespace>Algorithms.AStar</RootNamespace>
+    <PackageId>Algorithms.AStar</PackageId>
     <Version>3.0.2</Version>
     <Authors>Roy Triesscheijn</Authors>
     <Company />

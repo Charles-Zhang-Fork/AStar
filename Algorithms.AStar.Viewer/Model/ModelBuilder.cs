@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using ReactiveUI;
-using Roy_T.AStar.Grids;
-using Roy_T.AStar.Primitives;
+using Algorithms.AStar.Grids;
+using Algorithms.AStar.Primitives;
 
-namespace Roy_T.AStar.Viewer.Model
+namespace Algorithms.AStar.Viewer.Model
 {
     internal sealed class ModelBuilder
     {

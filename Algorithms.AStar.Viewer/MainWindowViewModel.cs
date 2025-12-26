@@ -9,13 +9,13 @@ using System.Windows;
 using DynamicData;
 using Microsoft.Win32;
 using ReactiveUI;
-using Roy_T.AStar.Grids;
-using Roy_T.AStar.Paths;
-using Roy_T.AStar.Primitives;
-using Roy_T.AStar.Serialization;
-using Roy_T.AStar.Viewer.Model;
+using Algorithms.AStar.Grids;
+using Algorithms.AStar.Paths;
+using Algorithms.AStar.Primitives;
+using Algorithms.AStar.Serialization;
+using Algorithms.AStar.Viewer.Model;
 
-namespace Roy_T.AStar.Viewer
+namespace Algorithms.AStar.Viewer
 {
     internal sealed class MainWindowViewModel : ReactiveObject
     {

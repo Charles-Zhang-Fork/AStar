@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Roy_T.AStar.Primitives
+namespace Algorithms.AStar.Primitives
 {
     public struct Distance : IComparable<Distance>, IEquatable<Distance>
     {
