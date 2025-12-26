@@ -1,4 +1,4 @@
-# Roy-T.AStar
+# Algorithms.AStar
 A fast 2D path finding library based on the A* algorithm. Works with both grids and graphs. Supports any .NET variant that supports .NETStandard 2.0 or higher. This library has no external dependencies. The library is licensed under the MIT license, see the `LICENSE` file for more details.
 
 A* is a greedy, graph based, path finding algorithm. It works by using a heuristic to guide the traveral along the graph. In this library we use the Euclidian distance heuristic. For a comprehensive overview of how the A* algorithm works I recommend this interactive [article](https://www.redblobgames.com/pathfinding/a-star/introduction.html) by Red Blob Games.

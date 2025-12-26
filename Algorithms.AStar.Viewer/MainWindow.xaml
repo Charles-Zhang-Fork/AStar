@@ -8,7 +8,7 @@
         mc:Ignorable="d"
         Height="900" Width="1550"
         Background="WhiteSmoke"         
-        Title="Roy-T.AStar.v2 - Viewer" d:DataContext="{d:DesignInstance local:MainWindowViewModel, IsDesignTimeCreatable=True}">
+        Title="Algorithms.AStar.v2 - Viewer" d:DataContext="{d:DesignInstance local:MainWindowViewModel, IsDesignTimeCreatable=True}">
     <Window.Resources>
         <local:GraphDataTemplateSelector x:Key="selector" />
         <local:NodeStateColorConverter x:Key="stateConvertor" />

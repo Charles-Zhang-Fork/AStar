@@ -49,7 +49,7 @@ namespace Roy_T.AStar.Viewer
                     WindowStyle = ProcessWindowStyle.Hidden,
                     UseShellExecute = false,
                     CreateNoWindow = true,
-                    Arguments = $"/c start http://github.com/roy-t/AStar"
+                    Arguments = $"/c start http://github.com/Algorithms/AStar"
                 };
                 Process.Start(psi);
             });

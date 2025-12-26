@@ -10,13 +10,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roy-T.AStar", "Roy-T.AStar\Roy-T.AStar.csproj", "{6BAF6D44-A0FA-409F-813E-914AD3C57680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.AStar", "Algorithms.AStar\Algorithms.AStar.csproj", "{6BAF6D44-A0FA-409F-813E-914AD3C57680}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roy-T.AStar.Tests", "Roy-T.AStar.Tests\Roy-T.AStar.Tests.csproj", "{0591D506-5AEC-4643-8D25-ED72DFDD4B40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.AStar.Tests", "Algorithms.AStar.Tests\Algorithms.AStar.Tests.csproj", "{0591D506-5AEC-4643-8D25-ED72DFDD4B40}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roy-T.AStar.Benchmark", "Roy-T.AStar.Benchmark\Roy-T.AStar.Benchmark.csproj", "{20C054FD-8967-484A-824E-BE761478E451}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.AStar.Benchmark", "Algorithms.AStar.Benchmark\Algorithms.AStar.Benchmark.csproj", "{20C054FD-8967-484A-824E-BE761478E451}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roy-T.AStar.Viewer", "Roy-T.AStar.Viewer\Roy-T.AStar.Viewer.csproj", "{ECE64819-6423-4187-BC52-A02992ED1945}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.AStar.Viewer", "Algorithms.AStar.Viewer\Algorithms.AStar.Viewer.csproj", "{ECE64819-6423-4187-BC52-A02992ED1945}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
